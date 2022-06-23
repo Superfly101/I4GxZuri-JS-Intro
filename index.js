@@ -6,6 +6,6 @@ let height = "6ft";
 
 let country = "Nigeria";
 
-
-
-
+alert(`Name: ${fullName}
+Height: ${height}
+Country: ${country}`);
